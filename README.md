@@ -6,3 +6,6 @@
 We collect your data in order to operate efficiently and provide you the best experiences in our product, pleas ready the following Privacy Policy thoroughly before using our Products.
 
 - Email Adress: we collect your email address used for login
+- Username and Password: we collect your username and password used for login
+
+### Other informations collected include data collected by google which are not visible to us
