@@ -3,7 +3,7 @@
 
 ### User data we collect
 
-We collect your data in order to operate efficiently and provide you the best experiences in our product, pleas ready the following Privacy Policy thoroughly before using our Products.
+We collect your data in order to operate efficiently and provide you the best experiences in our product, pleasw ready the following Privacy Policy thoroughly before using our Products.
 
 - Email Adress: we collect your email address used for login
 - Username and Password: we collect your username and password used for login
