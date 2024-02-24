@@ -1,5 +1,5 @@
 # The Horang Studios Privacy Policy
-### Effective date : ...
+### Effective date : 24 February 2024
 
 ### User data we collect
 
